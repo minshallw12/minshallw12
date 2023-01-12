@@ -86,13 +86,9 @@
 
 <br/>  
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minshallw12&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=minshallw12&&style=flat-square" align="center" />
-</div>  
 
 
 <br/>  
