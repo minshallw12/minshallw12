@@ -5,8 +5,8 @@
 
 ### <div align="center">WILL MINSHALL is a software engineer, entrepreneur, and Navy veteran. He has implemented tech strategies including Point-of-Service inventory systems, marketing webpages, aerial imagery, and military power systems. His proficiency in computers correlates with his background in nuclear technology, physics, and finance.
 
-Currently Will is attending Code Platoon in Chicago to sharpen his general engineering skills including api integration, database architecture, web design and development, object oriented design, programming algorithms, and more. His background in finance, sales, and 
-technology has culminated a trinity focused on building the next generation of software 
+Currently Will is attending Code Platoon in Chicago to sharpen his general engineering skills including api integration, database architecture, web design and development, object oriented design, programming algorithms, and more. His background in technology, business, and 
+finance has culminated a trinity focused on building the next generation of software 
 systems and processes.</div>  
   
 
