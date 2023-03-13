@@ -13,7 +13,7 @@ systems and processes.</div>
 - 🔭 I’m currently working with [Code Platoon](https://www.codeplatoon.org/)  
   
 
-- 🌱 I’m currently learning Python and C++  
+- 🌱 I’m currently learning Django REST framework and React.js 
   
 
 - 📫 How to reach me: minshalltech@gmail.com  
