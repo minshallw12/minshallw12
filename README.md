@@ -3,7 +3,11 @@
 </div>  
   
 
-### <div align="center">My name is Will Minshall and I am a software engineer with a background in real estate and finance.  I hope to add security to the real estate and finance process through the production of decentralized applications and blockchain transactions.</div>  
+### <div align="center">WILL MINSHALL is a software engineer, entrepreneur, and Navy veteran. He has implemented tech strategies including Point-of-Service inventory systems, marketing webpages, aerial imagery, and military power systems. His proficiency in computers correlates with his background in nuclear technology, physics, and finance.
+
+Currently Will is attending Code Platoon in Chicago to sharpen his general engineering skills including api integration, database architecture, web design and development, object oriented design, programming algorithms, and more. His background in finance, sales, and 
+technology has culminated a trinity focused on building the next generation of software 
+systems and processes.</div>  
   
 
 - 🔭 I’m currently working with [Code Platoon](https://www.codeplatoon.org/)  
@@ -15,7 +19,7 @@
 - 📫 How to reach me: minshalltech@gmail.com  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: The airspeed velocity of an unladen swallow varies by origin. 
   
 
   
