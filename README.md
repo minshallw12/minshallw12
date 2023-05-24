@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+ <iframe src="https://giphy.com/embed/Vh1KrUr6Tvl1RFYYk6" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gfuel-gaming-pc-setup-Vh1KrUr6Tvl1RFYYk6">via GIPHY</a></p>
 </div>  
   
 
@@ -13,7 +14,7 @@ systems and processes.</div>
 - 🔭 I’m currently working with [Code Platoon](https://www.codeplatoon.org/)  
   
 
-- 🌱 I’m currently learning Django REST framework and React.js 
+- 🌱 I’m currently studying C++ and CompTia Network+ 
   
 
 - 📫 How to reach me: minshalltech@gmail.com  
