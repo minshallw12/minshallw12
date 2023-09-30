@@ -14,7 +14,7 @@
 
 - Entreprenuer | MBA Finance | US Navy Veteran
 - Currently working at: Code Platoon
-- Currently studying: C++, CompTia Network+
+- Currently studying: C++, Smart Contracts
 - How to reach me: minshalltech@gmail.com
 - I’m currently open for any new job opportunities.
 
