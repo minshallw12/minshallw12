@@ -11,6 +11,7 @@
 
 <br>
 
+
 - Entreprenuer | MBA Finance | US Navy Veteran
 - Currently working at: Code Platoon
 - Currently studying: C++, Smart Contracts
