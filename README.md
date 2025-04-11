@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Will Minshall </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Software+Engineer...;U.S.+Navy+submarine+veteran...;Web3+Enthusiast...;Dark+Web+Enthusiast...;Security+Enthusiast...;Hardware+Enthusiast...;Computer+super+nerd..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Solutions Architect...;Software+Engineer...;U.S.+Navy+submarine+veteran...;Web3+Enthusiast...;Security+Enthusiast...;Hardware+Enthusiast...;Computer+super+nerd..."></a>
 </p>
 
 <br>
@@ -13,7 +13,11 @@
 
 - Solutions Architect | MBA Finance | US Navy Veteran
 - Currently working at: Amazon Web Services (AWS)
-- Currently studying: AI/ML, 
+- Currently studying: AI/ML
+- Past Experience:
+- 	Data Annotation - Software Engineer 2024
+- 	McCall College - Programming Instructor 2024
+- 	Code Platoon - Software Engineer Teaching Assistant 2023
 - How to reach me: minshalltech@gmail.com
 - I’m currently open for any new job opportunities.
 
