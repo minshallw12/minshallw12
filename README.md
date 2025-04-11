@@ -31,8 +31,6 @@
 <div>
 	<div>
 		<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.69d82ff1b2861e1089539ebba906c70b011b928a.png" width="150" height="150">
-	</div>
-	<div>
 		<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png">
 		<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Machine-Learning-Engineer-Associate_badge_150x150.5b20006dbf23c59ce652afbf3bd943cc3a013159.png">
 		<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Developer-Associate_badge_150x150.a8973e238efb2d1b0b24f5282e1ad87eb554e6ef.png">
