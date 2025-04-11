@@ -17,7 +17,7 @@
 - <b>Solutions Architect | MBA Finance | US Navy Veteran </b>
 - <b>Currently working at:</b> Amazon Web Services (AWS)
 - <b>How to reach me:</b> minshalltech@gmail.com
-- I’m currently open for any new job opportunities.
+
 <br>
 
 ### Experience:
@@ -25,6 +25,8 @@
 - 	<b>Data Annotation</b> - Software Engineer 2024
 - 	<b>McCall College</b> - Programming Instructor 2024
 - 	<b>Code Platoon</b> - Software Engineer Teaching Assistant 2023
+
+<br>
 
 ### Certifications
 #### AWS Cloud
