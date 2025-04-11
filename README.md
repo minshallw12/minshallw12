@@ -1,25 +1,42 @@
 <h1 align="center"><b>Hi , I'm Will Minshall </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Solutions Architect...;Software+Engineer...;U.S.+Navy+submarine+veteran...;Web3+Enthusiast...;Security+Enthusiast...;Hardware+Enthusiast...;Computer+super+nerd..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Solutions Architect...;Software+Engineer...;Cloud+Engineer...;U.S.+Navy+submarine+veteran...;Web3+Enthusiast...;Security+Enthusiast...;Hardware+Enthusiast...;Computer+super+nerd..."></a>
 </p>
 
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **About me**
 
 <br>
 
 
-- Solutions Architect | MBA Finance | US Navy Veteran
-- Currently working at: Amazon Web Services (AWS)
-- Currently studying: AI/ML
-- Past Experience:
-- 	Data Annotation - Software Engineer 2024
-- 	McCall College - Programming Instructor 2024
-- 	Code Platoon - Software Engineer Teaching Assistant 2023
-- How to reach me: minshalltech@gmail.com
+- <b>Solutions Architect | MBA Finance | US Navy Veteran </b>
+- <b>Currently working at:</b> Amazon Web Services (AWS)
+- <b>How to reach me:</b> minshalltech@gmail.com
 - I’m currently open for any new job opportunities.
+<br>
+
+### Experience:
+-   <b>Amazon Web Services (AWS)</b> - Solutions Architect 2024
+- 	<b>Data Annotation</b> - Software Engineer 2024
+- 	<b>McCall College</b> - Programming Instructor 2024
+- 	<b>Code Platoon</b> - Software Engineer Teaching Assistant 2023
+
+### Certifications
+#### AWS Cloud
+<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png">
+<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge_150x150.bb2bb1cae960f5ee8b93d3e2ccc9dd64bff29180.png">
+<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png">
+<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Machine-Learning-Engineer-Associate_badge_150x150.5b20006dbf23c59ce652afbf3bd943cc3a013159.png">
+<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Developer-Associate_badge_150x150.a8973e238efb2d1b0b24f5282e1ad87eb554e6ef.png">
+<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.69d82ff1b2861e1089539ebba906c70b011b928a.png" width="150" height="150">
+
+#### Industry Tech
+<img src="https://images.credly.com/size/340x340/images/d3cb5ac3-8bd2-471a-a27c-f447bf16da47/blob" width="150" height="150">
+<img src="https://images.credly.com/size/340x340/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob" width="150" height="150">
+
+
 
 <br><br>
 
